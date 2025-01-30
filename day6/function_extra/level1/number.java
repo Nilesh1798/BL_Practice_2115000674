@@ -1,5 +1,5 @@
 import java.util.*;
-public class q1{
+public class number{
 public static void main(String[] args){
 Scanner sx=new Scanner(System.in);
 System.out.println("Enter the number between 1-100 :");

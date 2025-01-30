@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class q4 {
+public class fibo {
 
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);

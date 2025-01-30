@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class q7 {
+public class gcd_lcm {
 
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);

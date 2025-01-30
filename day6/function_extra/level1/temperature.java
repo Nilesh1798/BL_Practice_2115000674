@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class q8 {
+public class temperature {
 
 
     public static double fahrenheitToCelsius(double fahrenheit) {

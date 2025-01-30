@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class q9 {
+public class basic_calc{
 
     public static double getInput(String prompt) {
         Scanner scanner = new Scanner(System.in);

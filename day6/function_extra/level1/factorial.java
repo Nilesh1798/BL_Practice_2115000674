@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class q6 {
+public class factorial {
 
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
