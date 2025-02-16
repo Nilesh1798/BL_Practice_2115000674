@@ -1,6 +1,6 @@
 import java.util.Arrays;
 
-public class StudentMarks {
+public class StudentMarks{
     
     public static void bubbleSort(int[] marks) {
         int n = marks.length;
